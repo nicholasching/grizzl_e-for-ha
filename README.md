@@ -17,6 +17,8 @@ Did you know that your United Chargers Grizzl-E WiFi enabled EVSE has a web inte
 
 Even once a username and password is set, users should ensure that thier EVSE is properly secured on their network from the rest of the internet.
 
+For a repository-specific data handling overview, see [SAFETY_REPORT.md](SAFETY_REPORT.md).
+
 ## Features
 
 This integration provides the following features:
