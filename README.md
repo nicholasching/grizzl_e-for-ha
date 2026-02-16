@@ -15,7 +15,7 @@ This integration is not affiliated with United s or Grizzl-E (but is also made i
 ## ⚠️ Security Note
 Did you know that your United Chargers Grizzl-E WiFi enabled EVSE has a web interface that is by default unauthenticated? If you haven't visited the Grizzl-E web interface, referred to in the user manuals as [Page Access](https://ecommerce-space.nyc3.digitaloceanspaces.com/Operation_Manual_V4_0_d5c730c075.pdf#Grizzl-EUltimate_OperationManual_V4.0.indd%3AAnchor%203%3A3092), and set a password, you should do that right away. This integration assumes a username and password has been set.
 
-Even once a username and password is set, users should ensure that thier EVSE is properly secured on their network from the rest of the internet.
+Even once a username and password is set, users should ensure that their EVSE is properly secured on their network from the rest of the internet.
 
 For a repository-specific data handling overview, see [SAFETY_REPORT.md](SAFETY_REPORT.md).
 
